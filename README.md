@@ -12,5 +12,5 @@
    Ensure these are named the same as the Project ID. e.g. My-First-Project.json
 ## How to
 
-Simply run using go run main.go
+Simply run using go run main.go.  
 Build for intended OS systems using the appropriate go command lines.
