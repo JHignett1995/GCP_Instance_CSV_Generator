@@ -7,7 +7,7 @@
    {"project_id": "My-First-Project"},  
    {"project_id": "My-Second-Project"}
   ]    
-}`
+}`   
 3.Add all service account keys to the ServiecAccount folder.
    Ensure these are named the same as the Project ID. e.g. My-First-Project.json
 ## How to
