@@ -2,7 +2,7 @@
 
 ## Requirements
 1. Create 2 local folders: "config" & "ServiceAccounts".
-2. Create a config file in the config folder:
+2. Create a config.json file in the config folder:
 `{   "projects": [        
    {"project_id": "My-First-Project"},  
    {"project_id": "My-Second-Project"}
