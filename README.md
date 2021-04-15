@@ -10,7 +10,7 @@
 }`
 
 3. Add all service account keys to the ServiecAccount folder.
-   Ensure these are named the same as the Project ID. e.g. My-First-Project.json
+   Ensure these are named the same as the Project ID. e.g. `My-First-Project.json`
 ## How to
 
 Simply run using go run main.go.  
