@@ -3,7 +3,7 @@ package constants
 import "os"
 
 func HandleFile(filename string) *os.File {
-	file, err3 := os.OpenFile("./Output/"+filename+".csv", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
+	file, err3 := os.OpenFile("./"+filename+".csv", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
 	ErrorCheck("Could Not Create File: ", err3)
 	return file
 }
